@@ -1,0 +1,14 @@
+C:\Users\38160\Desktop\CS322-DZ05\CS322-DZ05\CS322-DZ05\bin\Debug\net6.0\CS322-DZ05.exe
+C:\Users\38160\Desktop\CS322-DZ05\CS322-DZ05\CS322-DZ05\bin\Debug\net6.0\CS322-DZ05.deps.json
+C:\Users\38160\Desktop\CS322-DZ05\CS322-DZ05\CS322-DZ05\bin\Debug\net6.0\CS322-DZ05.runtimeconfig.json
+C:\Users\38160\Desktop\CS322-DZ05\CS322-DZ05\CS322-DZ05\bin\Debug\net6.0\CS322-DZ05.dll
+C:\Users\38160\Desktop\CS322-DZ05\CS322-DZ05\CS322-DZ05\bin\Debug\net6.0\CS322-DZ05.pdb
+C:\Users\38160\Desktop\CS322-DZ05\CS322-DZ05\CS322-DZ05\obj\Debug\net6.0\CS322-DZ05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38160\Desktop\CS322-DZ05\CS322-DZ05\CS322-DZ05\obj\Debug\net6.0\CS322-DZ05.AssemblyInfoInputs.cache
+C:\Users\38160\Desktop\CS322-DZ05\CS322-DZ05\CS322-DZ05\obj\Debug\net6.0\CS322-DZ05.AssemblyInfo.cs
+C:\Users\38160\Desktop\CS322-DZ05\CS322-DZ05\CS322-DZ05\obj\Debug\net6.0\CS322-DZ05.csproj.CoreCompileInputs.cache
+C:\Users\38160\Desktop\CS322-DZ05\CS322-DZ05\CS322-DZ05\obj\Debug\net6.0\CS322-DZ05.dll
+C:\Users\38160\Desktop\CS322-DZ05\CS322-DZ05\CS322-DZ05\obj\Debug\net6.0\refint\CS322-DZ05.dll
+C:\Users\38160\Desktop\CS322-DZ05\CS322-DZ05\CS322-DZ05\obj\Debug\net6.0\CS322-DZ05.pdb
+C:\Users\38160\Desktop\CS322-DZ05\CS322-DZ05\CS322-DZ05\obj\Debug\net6.0\CS322-DZ05.genruntimeconfig.cache
+C:\Users\38160\Desktop\CS322-DZ05\CS322-DZ05\CS322-DZ05\obj\Debug\net6.0\ref\CS322-DZ05.dll
